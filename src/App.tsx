@@ -5,7 +5,7 @@ import FeatureHighlights from './components/FeatureHighlights'
 import SpecificationsPanel from './components/SpecificationsPanel'
 import SocialProof from './components/SocialProof'
 import PricingModule from './components/PricingModule'
-import './App.css'
+
 
 function App() {
   const [activeTab, setActiveTab] = useState('specs')
